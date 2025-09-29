@@ -15,7 +15,7 @@ It provides insights on total sales, average sales, ratings, outlet establishmen
 - Excel/CSV (Dataset)
 
 ## 📷 Dashboard Screenshot
-![Blinkit_Dashboard](images/Blinkit_PowerBI_Dashboard.png)
+![Blinkit Dashboard](images/Blinkit_PowerBI_Dashboard.png)
 
 ## 🚀 How to Use
 - Open the `.pbix` file in Power BI Desktop.
